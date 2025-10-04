@@ -3,4 +3,9 @@
 - https://robertmarks.org/Classes/ENGR5358/Papers/functions.pdfs
 
 - https://www.ee.torontomu.ca/~bagheri/papers/iscc1.pdf 
+
    (de citit + are mai multe bibliografii la final de unde putem sa cautam mai multe inf)
+
+interesante:
+   - https://al-roomi.org/benchmarks/unconstrained/n-dimensions/191-sphere-model-spherical-contours-square-sum-harmonic-or-1st-de-jong-s-function
+     (are modele 2 si 3 d pt functia 1)
