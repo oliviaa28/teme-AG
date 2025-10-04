@@ -1,0 +1,6 @@
+- https://www.geeksforgeeks.org/cpp/stdmt19937-class-in-cpp (Merseene twister Function)
+
+- https://robertmarks.org/Classes/ENGR5358/Papers/functions.pdfs
+
+- https://www.ee.torontomu.ca/~bagheri/papers/iscc1.pdf 
+   (de citit + are mai multe bibliografii la final de unde putem sa cautam mai multe inf)
